@@ -1,3 +1,5 @@
-p{
-    color: aqua;
+* {
+    font-family: "Odor Mean Chey", serif;
+    font-weight: 400;
+    font-style: normal;
 }
